@@ -12,3 +12,8 @@ Day 2 : 24/03/2025
 - Good Job today 👏
 - commiting on 25/03/2025 at 1:30 am in the morning
 
+Day 3: 25/03/2025
+- Created the remaining sections
+- The project is structurily complete
+- Need to make it responsive 
+- Will add JS later
